@@ -95,7 +95,7 @@ var fragen = [[// Frage 1
                [true,true,false,true]],
 
                [// Frage 9
-               "Welche Gefahren entstehen in dieser Situation? (Bild zeigt: Feuerwehrmänner tragen Pumpe in Richtung eines Flusses (Gelender vor ihnen)",
+               "Welche Gefahren entstehen in dieser Situation? (Bild zeigt: Feuerwehrmänner tragen Pumpe in Richtung eines Flusses (Gelender vor ihnen))",
                // Antwort 1
                "Ausrutschen",
                // Antwort 2
