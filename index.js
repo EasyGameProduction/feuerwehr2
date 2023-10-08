@@ -253,7 +253,7 @@ var fragen = [[// Frage 1
                [// Frage 19
                "Was beachten Sie als Truppführer bei der Brandbekampfung?",
                // Antwort 1
-               "Auf eine doppelte RÜckwegsicherung mit Schlauch und Feuerwehrleine beim Innenangriff",
+               "Auf eine doppelte Rückwegsicherung mit Schlauch und Feuerwehrleine beim Innenangriff",
                // Antwort 2
                "Die Position immer wieder wechseln, um den Brand von allen Seiten bekämpfen zu können",
                // Antwort 3
