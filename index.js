@@ -374,7 +374,7 @@ var fragen = [[// Frage 1
                "",
                [false,true,false,false],
                // Bild
-               "Bild2.png"],
+               "Bild3.png"],
 
                [// Frage 28
                "Beim Überqueren von Straßen mit Schlauchleitungen sind mindestens drei Schlauchbrücken auf einer Fahrbahnseite so auszulegen, dass Fahrzeuge verschiedener Spurbreite (PKW/LKW) die Schlauchleitung überfahren können. Der Truppführer achtet darauf, dass die Schlauchbrücken fachgerecht verlegt werden. Wie groß wählen sie den Abstand?",
@@ -388,7 +388,7 @@ var fragen = [[// Frage 1
                "Etwa 3,0 m",
                [false,true,false,false],
                // Bild
-               "Bild3.png"],
+               "Bild2.png"],
 
                [// Frage 29
                "Der Truppführer ist für die genaue Lage des Verteilers verantwortlich. Wo sollten Sie nach Möglichkeit den Verteiler nicht ablegen?",
