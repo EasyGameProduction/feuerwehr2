@@ -165,6 +165,198 @@ var fragen = [[// Frage 1
                // Antwort 4
                "Pulverlöscher mit Flammbrandpulver",
                [false,false,true,false]],
+
+               [// Frage 15
+               "Welche der folgenden Feuerlöscher können bei Bränden fester Stoffe wirkungsvoll eingesetzt werden?",
+               // Antwort 1
+               "Pulverlöscher mit Flammbrandpulver",
+               // Antwort 2
+               "Nasslöscher",
+               // Antwort 3
+               "Schaumlöscher",
+               // Antwort 4
+               "Pulverlöscher mit Glutbrandpulver",
+               [false,true,true,true]],
+
+               [// Frage 16
+               "Welche der folgenden Feuerlöscher können bei Bränden flüssiger Stoffe wirkungsvoll eingesetzt werden?",
+               // Antwort 1
+               "Kohlendioxidlöscher",
+               // Antwort 2
+               "Feuerloscher mit Metallbrandpulver",
+               // Antwort 3
+               "Pulverlöscher mit ABC-Pulver",
+               // Antwort 4
+               "Nasslöscher",
+               [true,false,true,false]],
+
+               [// Frage 17
+               "Welche der folgenden Feuerlöscher können bei Bränden flüssiger Stoffe wirkungsvoll eingesetzt werden?",
+               // Antwort 1
+               "Pulverlöscher mit BC-Brandpulver",
+               // Antwort 2
+               "Nasslöscher",
+               // Antwort 3
+               "Schaumlöscher",
+               // Antwort 4
+               "Kolendioxidlöscher",
+               [true,false,true,true]],
+
+               [// Frage 18
+               "Was beachten Sie als Truppführer bei der Brandbekampfung?",
+               // Antwort 1
+               "Keinesfalls ein Gebäude betreten",
+               // Antwort 2
+               "Sicherheitsabstände zu elektrischen Anlagen einhalten",
+               // Antwort 3
+               "Wasserabgabe immer wieder stoppen, damit der Wasserdampf abziehen kann und die Entwicklung der Löscharbeiten kontrolliert werden kann",
+               // Antwort 4
+               "Ausreichende Schlauchreserve",
+               [false,true,true,true]],
+
+               [// Frage 19
+               "Was beachten Sie als Truppführer bei der Brandbekampfung?",
+               // Antwort 1
+               "Auf eine doppelte RÜckwegsicherung mit Schlauch und Feuerwehrleine beim Innenangriff",
+               // Antwort 2
+               "Die Position immer wieder wechseln, um den Brand von allen Seiten bekämpfen zu können",
+               // Antwort 3
+               "Gegen den Wind angreifen",
+               // Antwort 4
+               "",
+               [false,true,false,false]],
+
+               [// Frage 20
+               "Sie bekommen den Auftrag eine Fahrzeugbatterie abzuklemmen. Welchen Pol klemmen Sie zuerst ab?",
+               // Antwort 1
+               "Den Minuspol",
+               // Antwort 2
+               "Den Pluspol",
+               // Antwort 3
+               "Bei modernen Fahrzeugen ist die Reihenfolge egal",
+               // Antwort 4
+               "Darf von der Feuerwehr nicht abgeklemmt werden",
+               [true,false,false,false]],
+
+               [// Frage 21
+               "Bei einem Unfall laufen Betriebsstoffe aus. Womit können Sie kleinere Mengen ausgelaufenen Treibstoffs abdecken?",
+               // Antwort 1
+               "Wasser",
+               // Antwort 2
+               "Ölbindemittel",
+               // Antwort 3
+               "Erde",
+               // Antwort 4
+               "Sagespäne",
+               [false,true,true,true]],
+
+               [// Frage 22
+               "Worauf ist beim Aufstellen einer Steckleiter zu achten?",
+               // Antwort 1
+               "Auf eine sichere Verriegelung der Sperrbolzen",
+               // Antwort 2
+               "Dass die Leiter nicht vor Fluchtwegen/Eingangstüren in Stellung gebracht wird",
+               // Antwort 3
+               "Dass immer alle 4 Leiterteile genutzt werden",
+               // Antwort 4
+               "Dass 3 Sprossen bzw. 1 m Überstand eingehalten werden, wenn keine andere Möglichkeit zum Festhalten besteht",
+               [true,true,false,true]],
+
+               [// Frage 23
+               "Worauf ist beim Aufstellen einer Steckleiter zu achten?",
+               // Antwort 1
+               "Dass die Leiter bis zur Fensteroberkante reicht",
+               // Antwort 2
+               "Dass ein ausreichender Abstand zu spannungsführenden Teilen eingehalten wird",
+               // Antwort 3
+               "Dass der Untergrund waagrecht und tragfähig ist",
+               // Antwort 4
+               "Dass ein Anstellwinkel von ca. 85° eingehalten wird",
+               [false,true,true,false]],
+
+               [// Frage 24
+               "Welche taktischen Einsatzgrundsätze beachten Sie als Truppführer?",
+               // Antwort 1
+               "Menschenrettung hat oberste Priorität",
+               // Antwort 2
+               "Erkannte Gefahren sofort melden",
+               // Antwort 3
+               "Truppweise geschlossen vorgehen",
+               // Antwort 4
+               "Rückzugsweg sichern",
+               [true,true,true,true]],
+
+               [// Frage 25
+               "Welche taktischen Einsatzgrundsätze beachten Sie als Truppführer?",
+               // Antwort 1
+               "Spätestens ab der Rauchgrenze mit Wasser am Rohr vorgehen",
+               // Antwort 2
+               "Schaden so gering wie möglich halten",
+               // Antwort 3
+               "Immer kriechend vorgehen",
+               // Antwort 4
+               "Löschstrahl nicht unterbrechen",
+               [true,true,false,false]],
+
+               [// Frage 26
+               "Der Wassertrupp bekommt den Auftrag, ein Gebäude (rauchfrei) nach Personen zu durchsuchen. Wer legt die Reihenfolge der Absuche fest, wenn im Befehl des Gruppenführers kein Hinweis gegeben wurde?",
+               // Antwort 1
+               "Der dienstälteste Feuerwehrmann im Trupp",
+               // Antwort 2
+               "Der Truppführer",
+               // Antwort 3
+               "Der Truppmann",
+               // Antwort 4
+               "Der Maschinist",
+               [false,true,false,false]],
+
+               [// Frage 27
+               "Der Einheitsführer befiehlt, dass Sie mit lhrem Trupp den nächsten Hydranten als Wasserversorgung einsatzbereit machen sollen. In etwa 25 m Entfernung zur Einsatzstelle entdecken Sie einen Unterflurhydranten, auf dem das im Bild dargestellte Fahrzeug parkt. In 100 m Entfernung sehen Sie einen Überflurhydranten <br> - wie entscheiden Sie sich?",
+               // Antwort 1
+               "Wir rutschen das Fahrzeug zur Seite und machen den Unterflurhydranten einsatzbereit. Als Feuerwehrmann darf ich Sachen, die den Einsatz behindern, entfernen",
+               // Antwort 2
+               "Weil bei allen Einsatzmaßnahmen die Verhältnismäßigkeit zu beachten ist, entscheide ich mich für den Überflurhydranten, auch wenn es etwas länger dauert",
+               // Antwort 3
+               "Ich weise die Polizei an, den Fahrzeughalter ausfindig zu machen und das Entfernen des Fahrzeuges zu veranlassen",
+               // Antwort 4
+               "",
+               [false,true,false,false]],
+
+               [// Frage 28
+               "Beim Überqueren von Straßen mit Schlauchleitungen sind mindestens drei Schlauchbrücken auf einer Fahrbahnseite so auszulegen, dass Fahrzeuge verschiedener Spurbreite (PKW/LKW) die Schlauchleitung überfahren können. Der Truppführer achtet darauf, dass die Schlauchbrücken fachgerecht verlegt werden. Wie groß wählen sie den Abstand?",
+               // Antwort 1
+               "Etwa 2,5 m",
+               // Antwort 2
+               "Etwa 1,0 m",
+               // Antwort 3
+               "Etwa 1,5 m",
+               // Antwort 4
+               "Etwa 3,0 m",
+               [false,true,false,false]],
+
+               [// Frage 29
+               "Der Truppführer ist für die genaue Lage des Verteilers verantwortlich. Wo sollten Sie nach Möglichkeit den Verteiler nicht ablegen?",
+               // Antwort 1
+               "Im Trümmerschatten",
+               // Antwort 2
+               "Im Schließbereich der Haustür",
+               // Antwort 3
+               "Außerhalb des Fluchtwegs",
+               // Antwort 4
+               "",
+               [true,true,false,false]],
+
+               [// Frage 30
+               "Als Truppführer sind Sie für die Sicherheit des Trupps verantwortlich. Welche Grundsätze beachten Sie dabei beim Auftreten atomarer Gefahren?",
+               // Antwort 1
+               "Abstand halten",
+               // Antwort 2
+               "Abschirmungen nutzen",
+               // Antwort 3
+               "Aufenthaltsdauer begrenzen",
+               // Antwort 4
+               "Inkorporation ausschließen",
+               [true,true,true,true]],
             ];
 
 var index = 0;
