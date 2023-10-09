@@ -5,3 +5,8 @@ body{
 .Ueberschrift{
     text-align: center;
 }
+
+#Content{
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
