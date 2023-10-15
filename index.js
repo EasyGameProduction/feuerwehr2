@@ -417,6 +417,426 @@ var fragen = [[// Frage 1
                [true,true,true,true],               
                // Bild
                ""],
+
+               [// Frage 31
+               "Sie haben den Auftrag, eine brennende Scheune (Holzbauweise) abzulöschen. Worauf weisen sie lhren Truppmann bei der Strahlrohrführung hin?",
+               // Antwort 1
+               "Verbindungsstellen (Knotenpunkte) zuerst ablöschen",
+               // Antwort 2
+               "Verbindungsstellen (Knotenpunkte) zuletzt ablöschen",
+               // Antwort 3
+               "Stützen zuerst ablöschen",
+               // Antwort 4
+               "",
+               [true,false,false,false],               
+               // Bild
+               ""],
+
+               [// Frage 32
+               "Wer bestimmt bei Einsatz von Wasser als Löschmittel, ob der Trupp die Brandbekämpfung mit Vollstrahl oder Sprühstrahl durchführt?",
+               // Antwort 1
+               "Der Truppmann",
+               // Antwort 2
+               "Der Strahlrohrführer",
+               // Antwort 3
+               "Der Truppführer",
+               // Antwort 4
+               "",
+               [false,false,true,false],            
+               // Bild
+               ""],
+
+               [// Frage 33
+               "Ein Feuerwehrmann wird durch den Schlauchtrupp mit Hilfe einer Feuerwehrleine gegen Absturz gesichert.<br>Wer überprüft die korrekte Ausführung des Brustbundes?",
+               // Antwort 1
+               "Der Truppmann des Schlauchtrupps",
+               // Antwort 2
+               "Der Feuerwehrdienstleistende, der den Knoten angelegt hat",
+               // Antwort 3
+               "Der Truppführer des Schlauchtrupps",
+               // Antwort 4
+               "",
+               [false,false,true,false],              
+               // Bild
+               ""],
+
+               [// Frage 34
+               "Welchen Vorteil hat die festgelegte Sitzordnung im Löschfahrzeug?",
+               // Antwort 1
+               "Ermöglicht schon während der Anfahrt, sich auf die entsprechenden Tätigkeiten vorzubereiten",
+               // Antwort 2
+               "Dient dem militärischen Drill",
+               // Antwort 3
+               "Keinen",
+               // Antwort 4
+               "",
+               [true,false,false,false],              
+               // Bild
+               ""],
+
+               [// Frage 35
+               "Welche besonderen Aufgaben hat der Truppführer bei Anwendung der Unfallverhütungsvorschriften?",
+               // Antwort 1
+               "Der Truppführer ist für die Sicherheit des Trupps und damit für die Einhaltung der Unfallverhütungsvorschrift verantwortlich",
+               // Antwort 2
+               "Keine, weil Truppmann und Truppführer jeweils für sich selbst verantwortlich sind",
+               // Antwort 3
+               "Keine, weil Truppmann und Truppführer das Gleiche tun",
+               // Antwort 4
+               "",
+               [true,false,false,false],               
+               // Bild
+               ""],
+
+               [// Frage 36
+               "Muss der Truppführer seinem Truppmann bei der Brandbekämpfung Weisungen erteilen?",
+               // Antwort 1
+               "Ja, vorallem, wenn der Truppmann nicht einsatztaktisch richtig oder nicht sicherheitsgerecht vorgeht",
+               // Antwort 2
+               "Nein, der Truppmann muss wissen, was zu tun ist",
+               // Antwort 3
+               "Ja, wenn er dienstälter ist",
+               // Antwort 4
+               "",
+               [true,false,false,false],               
+               // Bild
+               ""],
+
+               [// Frage 37
+               "Der Truppführer bemerkt, dass sein Truppmann die Schläuche falsch auslegt. Muss der Truppführer etwas tun? Wenn ja, was?",
+               // Antwort 1
+               "Er muss den Truppmann auf das fachgerechte Auslegen hinweisen und überwachen, dass er die Hinweise beachtet",
+               // Antwort 2
+               "Er muss nichts veranlassen, weil noch nichts passiert ist und wenn, ware es Aufgabe des Gruppenführers, etwas zu sagen",
+               // Antwort 3
+               "Er muss nichts tun, denn der Truppmann hat das Auslegen ja in seiner Ausbildung gelernt und muss jetzt seine Erfahrungen selbst machen",
+               // Antwort 4
+               "",
+               [true,false,false,false],              
+               // Bild
+               ""],
+
+               [// Frage 38
+               "Wer entscheidet, ob der Einsatzauftrag abgebrochen wird?",
+               // Antwort 1
+               "Der Truppführer",
+               // Antwort 2
+               "Der Maschinist",
+               // Antwort 3
+               "Der Truppmann",
+               // Antwort 4
+               "",
+               [true,false,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 39
+               "Während der Brandbekämpfung entdecken Sie eine leblose Person. Wie verhalten Sie sich richtig?",
+               // Antwort 1
+               "Gemäß meinem Auftrag hat die Brandbekämpfung Vorrang. Um die Person kann ich mich erst später kümmern",
+               // Antwort 2
+               "Ich lösche weiter und schicke meinen Truppmann zum Gruppenführer, um Meldung zu machen",
+               // Antwort 3
+               "Ich bringe die Person unverzüglich aus dem unmittelbaren Gefahrenbereich und leiste Erste Hilfe",
+               // Antwort 4
+               "Ich informiere schnellstmöglich meinen Gruppenführer",
+               [false,false,true,true],              
+               // Bild
+               ""],
+
+               [// Frage 40
+               "Welche Verhaltensweise ist nach psychisch belastenden Einsätzen vorteilhaft?",
+               // Antwort 1
+               "Nur keine Schwache zeigen",
+               // Antwort 2
+               "Nach dem Einsatz zusammensetzen, miteinander reden und evtl. PSNV hinzuziehen",
+               // Antwort 3
+               "So schnell wie möglich nach Hause gehen",
+               // Antwort 4
+               "",
+               [false,true,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 41
+               "Wie wird die Rottungsgasse auf einer Autobahn mit 3 Fahrstreifen gebildet?",
+               // Antwort 1
+               "Die Fahrzeuge auf der linken Spur ganz nach links, alle anderen rechts",
+               // Antwort 2
+               "Genau in der Mitte freimachen",
+               // Antwort 3
+               "Auf demn Standstreffen",
+               // Antwort 4
+               "",
+               [true,false,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 42
+               "Was tun Sie als Truppführer, wenn ihr Truppmann im Einsatz plőtzlich psychische Probleme hat?",
+               // Antwort 1
+               "Ihn aus dem Einsatzgeschehen herausnehmen, betreuen und den Einheitsführer informieren",
+               // Antwort 2
+               "Nicht weiter beachten",
+               // Antwort 3
+               "Ihm verdeutlichen, dass das Feuerwehrgeschaft eben kein Zuckerschlecken ist",
+               // Antwort 4
+               "",
+               [true,false,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 43
+               "Wie wird in der Regel bei einem Wohnungsbrand vorgegangen?",
+               // Antwort 1
+               "Truppweise unter Atemschutz",
+               // Antwort 2
+               "Mit Strahlrohr von außen die Dachhaut kühlen",
+               // Antwort 3
+               "Der Truppmann geht mit CM-Strahlrohr in die Wohnung",
+               // Antwort 4
+               "",
+               [true,false,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 44
+               "Was ist beim Unterbauen und Stabilisieren des im Bild gezeigten Unfallfahrzeugs (Pkw) vor einer Personenbefreiung zu beachten?",
+               // Antwort 1
+               "Es muss nicht unterbaut werden",
+               // Antwort 2
+               "Es reicht aus die A-Säule zu unterbauen",
+               // Antwort 3
+               "Es muss mindestens an A- und B-Säule unterbaut werden",
+               // Antwort 4
+               "Es muss gegen Wegrollen gesichert werden",
+               [false,false,true,true],             
+               // Bild
+               "Bild4.png"],
+
+               [// Frage 45
+               "Was darf bei Branden der Brandklasse D nicht als Lőschmittel verwendet werden?",
+               // Antwort 1
+               "Sand",
+               // Antwort 2
+               "D-Loschpulver",
+               // Antwort 3
+               "Zement",
+               // Antwort 4
+               "Wasser",
+               [false,false,false,true],             
+               // Bild
+               ""],
+
+               [// Frage 46
+               "Welche grundsátzlichen Aufgaben űbernimmt der Angriffstrupp einer Gruppe im Löscheinsatz?",
+               // Antwort 1
+               "Er hat keine bestimmten Aufgaben",
+               // Antwort 2
+               "Er arbeitet ausschließlich nach Anweisung des Einsatzleisters",
+               // Antwort 3
+               "Er rettet und nimmt das erste Rohr vor",
+               // Antwort 4
+               "Er verlegt die C-Leitung ab dem Verteiler selbst",
+               [false,false,true,true],             
+               // Bild
+               ""],
+
+               [// Frage 47
+               "Wo liegt die erste Absperrgrenze bei einem Einsatz mit unbekannten ABC-Gefahrstoffen (Absperrgrenze des Gefahrenbereichs)?",
+               // Antwort 1
+               "Mindestens 5 m",
+               // Antwort 2
+               "Mindestens 15 m",
+               // Antwort 3
+               "Mindestens 50 m",
+               // Antwort 4
+               "Mindestens 20 m",
+               [false,false,true,false],             
+               // Bild
+               ""],
+
+               [// Frage 48
+               "Wie viele Einsatzkräfte sind nach FwDV 10 notwendig, um eine Steckleiter aufzubauen?",
+               // Antwort 1
+               "Mindestens zwei Trupps und ein Gruppen- oder Staffelführer (5 Personen)",
+               // Antwort 2
+               "Zwei Trupps (4 Personen). Die Fuhrung übernimmt einer der beiden Truppführer",
+               // Antwort 3
+               "3 Personen (1 Truppführer + 2 Truppmanner) sind die Mindestanzahl",
+               // Antwort 4
+               "Ein Trupp. Die Fahrung übernimmt der Truppführer",
+               [false,false,true,false],             
+               // Bild
+               ""],
+
+               [// Frage 49
+               "Sie haben selbstständig einen anderen Hydranten verwendet, da der vom Gruppenführer benannte Unterflurhydrant durch einen Kleintransporter verstellt war. Was ist zu tun?",
+               // Antwort 1
+               "Den Gruppenführer umgehend über die geänderte Lage informieren",
+               // Antwort 2
+               "Ohne vorherige Rücksprache mit dem Gruppenführer den anderen Hydranten nur verwenden, wenn sichergestellt ist, dass dadurch keine anderen Kräfte in lhrer Tätigkeit behindert werden",
+               // Antwort 3
+               "Sobald der PKW-Fahrer ausfindig gemacht werden konnte und sein Fahrzeug entfernt hat, den Schlauch auf den richtigen Hydranten umkuppeln",
+               // Antwort 4
+               "",
+               [true,false,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 50
+               "Sie sind mit einem LF 20 im Brandeinsatz. Während der Brandbekämpfung im EG ruft plötzlich im 3. Obergeschoss eine Person um Hilfe, weil das Treppenhaus verraucht ist. Mit welcher Ausstattung des LF 20 können Sie die Person aus dem 3. Obergeschoss retten?",
+               // Antwort 1
+               "4-teilige Steckleiter",
+               // Antwort 2
+               "3-teilige Schiebleiter",
+               // Antwort 3
+               "Klappleiter",
+               // Antwort 4
+               "5-teilige Steckleiter",
+               [false,true,false,false],             
+               // Bild
+               ""],
+
+               [// Frage 51
+               "Zu den allgemeinen Aufgaben des Truppführers gehören beispielsweise:",
+               // Antwort 1
+               "Angriffsweg festlegen, soweit nicht durch den Einheitsführer vorgegeben",
+               // Antwort 2
+               "Kontrolle der persönlichen Schutzausrüstung (PSA)",
+               // Antwort 3
+               "Das taktische Funkkonzept festzulegen",
+               // Antwort 4
+               "Die Beachtung der Gefahren der Einsatzstelle",
+               [true,true,false,true],             
+               // Bild
+               ""],
+
+               [// Frage 52
+               "Richtiges Verhalten des Truppführers bei Erkennen einer Eigengefährdung ist,",
+               // Antwort 1
+               "sofortige Meldung an den Einheitsführer",
+               // Antwort 2
+               "wenn aufgrund der Gefahr erforderlich, tritt jeder im Trupp für s sich den Rückzug an",
+               // Antwort 3
+               "wenn aufgrund der Gefahr erforderlich, tritt der Trupp geschlossen den Rückweg an",
+               // Antwort 4
+               "ggf. Notfallmeldung - Kennwort: Mayday - absetzen",
+               [true,false,true,true],             
+               // Bild
+               ""],
+
+               [// Frage 53
+               "Wie reagieren Sie als Truppführer, wenn lhr Trupp den Auftrag hat 'Zur Brandbekämpfung auf der Gebäuderückseite vor!' und sehen den im Bild dargestellten Dachaufbau?",
+               // Antwort 1
+               "Meldung an den Einheitsführer 'Fotovoltaikanlage vorhanden!'",
+               // Antwort 2
+               "Strahlrohrabstand den Gefahren anpassen",
+               // Antwort 3
+               "Trupp vor herabstürzenden Teilen schützen",
+               // Antwort 4
+               "Keine besondere Reaktion erforderlich",
+               [true,true,false,false],             
+               // Bild
+               "Bild5.png"],
+
+               [// Frage 54
+               "Wann darf bei Unfällen in Hochspannungsanlagen mit der Menschenrettung begonnen werden?",
+               // Antwort 1
+               "In Hochspannungsanlagen darf die Feuerwehr nicht tätig werden",
+               // Antwort 2
+               "Menschenrettung kann immer durchgeführt werden, denn zur Menschenrettung kann von den Unfallverhütungsvorschriften abgewichen werden",
+               // Antwort 3
+               "Erst nach Abschaltung und Freigabe durch Fachpersonal",
+               // Antwort 4
+               "",
+               [false,false,true,false],             
+               // Bild
+               ""],
+
+               [// Frage 55
+               "Warnkleidung ist zu tragen",
+               // Antwort 1
+               "bei schlechten Sichtverhältnissen",
+               // Antwort 2
+               "bei Gefahrguteinsätzen",
+               // Antwort 3
+               "bei Tatigkeiten im Straßenyerkehr",
+               // Antwort 4
+               "bei entsprechender Anordnung des Gruppenführers",
+               [true,false,true,true],             
+               // Bild
+               ""],
+
+               [// Frage 56
+               "Der Gesichtsschutz zum Feuerwehrhelm (Klappvisier) ist zu verwenden",
+               // Antwort 1
+               "bei Gefahren für das Gesicht und die Augen",
+               // Antwort 2
+               "bei Gefahren beispielsweise durch Splitter",
+               // Antwort 3
+               "bei Gefahren durch wegschnellende Teile",
+               // Antwort 4
+               "bei Gefahren durch Funken oder Spritzer gefährlicher Stofe",
+               [true,true,true,true],             
+               // Bild
+               ""],
+
+               [// Frage 57
+               "Beim Aufstellen von tragbaren Leitern ist auf",
+               // Antwort 1
+               "den richtigen Anstellwinkel von ca. 65° bis 75 (mit angewinkeltem Arm prüfen) zu achten",
+               // Antwort 2
+               "erforderliche Mindestabstände zu elektrischen Freileitungen zu achten",
+               // Antwort 3
+               "einen ausreichend festen Untergrund zu achten",
+               // Antwort 4
+               "einen sicheren Stand zu achten",
+               [true,true,true,true],             
+               // Bild
+               ""],
+
+               [// Frage 58
+               "Die Feuerwehrleine ...",
+               // Antwort 1
+               "dient zum Einfangen von Tieren (daher die frühere Bezeichnung: 'Fangleine'!)",
+               // Antwort 2
+               "dient als Halte- und Ventilleine",
+               // Antwort 3
+               "ist ein Rettungsgerät, das zur ergänzenden persönlichen Ausrüstung gehört",
+               // Antwort 4
+               "dient zum Sichern von Personen",
+               [false,false,true,true],             
+               // Bild
+               ""],
+
+               [// Frage 59
+               "Folgende Hinweise zur Sicherheit sind beim Einsatz einer Brechstange zu beachten:",
+               // Antwort 1
+               "Beim Einsatz der Brechstange ist Gesichtsschutz zu verwenden",
+               // Antwort 2
+               "Beim Einsatz ist die Klaue nicht zum Stoßen zu benutzen",
+               // Antwort 3
+               "Beim Heben muss die Last durch Unterbauen gesichert werden",
+               // Antwort 4
+               "Das maximal anzuhebende Gewicht darf nicht mehr als 10 kg betragen",
+               [true,true,true,false],             
+               // Bild
+               ""],
+
+               [// Frage 60
+               "Beim Einsatz des Einreißhakens",
+               // Antwort 1
+               "ist Gesichtsschutz erforderlich",
+               // Antwort 2
+               "kann generell auf Grundsätze, die einer Unfallverhutung dienen, verzichtet werden",
+               // Antwort 3
+               "sind Unterlegkeile zu verwenden",
+               // Antwort 4
+               "",
+               [true,false,false,false],             
+               // Bild
+               ""],
             ];
 
 var index = 0;
